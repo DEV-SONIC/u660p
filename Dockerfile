@@ -1,4 +1,4 @@
-FROM JMTHON-AR/JM-THON:alpine
+FROM Dev-sonic/u660pbot:alpine
 
 #clonning repo 
 RUN git clone https://github.com/dev-sonic/u660pbot.git /root/userbot
